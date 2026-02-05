@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=42"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "scripting_for_security"
+version = "0.1.0"
+description = "Starter lab scripts for basic host and log security checks"
+requires-python = ">=3.8"
+authors = [ {name = "Lab Author"} ]
+license = { text = "MIT" }

@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and reports
+.mypy_cache/
+coverage.xml
+htmlcov/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+/.idea/
+
+# Python virtualenv
+venv/
+env/
+
+# Test artifacts
+tests/*.log
+
+# Generated reports and runtime artifacts
+*_report.json
+*_blocklist*.txt
+demo_*.json
+demo_*_blocklist*.txt
+
+
+# Node/npm (if added later)
+node_modules/
